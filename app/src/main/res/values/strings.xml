@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DashSample</string>
+    <string name="dialog_title">Base Currency</string>
+    <string-array name="base_array">
+        <item>Bitcoin (BTC)</item>
+        <item>Bitcoin Cash (BCH)</item>
+        <item>Ether (ETH)</item>
+        <item>Ripple (XRP)</item>
+        <item>Dogecoin (DOGE)</item>
+    </string-array>
+</resources>
